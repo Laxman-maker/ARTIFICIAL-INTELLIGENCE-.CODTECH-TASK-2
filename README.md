@@ -14,3 +14,7 @@ COMPANY CODTECH IT SOLS**
 **MENTOR NAME:NEELA SANTOSH KUMAR**
 
 **ENTER DESCRIPTION OF TASK PERFORMED( NOT lESS THAN 500 WORDS)**
+
+**output of the task**
+
+![Image](https://github.com/user-attachments/assets/61077db0-f720-4c92-a258-8c5442d9170c)
